@@ -1,0 +1,12 @@
+resolver = 1
+title = "Archify"
+identifier = "top-skills.archify"
+namespace = "official"
+kind = "skill"
+version = "1.0.0"
+description = "Create validated architecture, sequence, lifecycle, ERD, class, workflow, and other diagrams as standalone interactive HTML. From tt-a1i/archify."
+homepage = "https://github.com/tt-a1i/archify"
+license = "Apache-2.0"
+
+url = "https://raw.githubusercontent.com/wanglongan587/marketplace/d9c6c299c831093c79fbc4c86a13a0c2460a7e0e/examples/top-skills/dist/top-skills.archify-1.0.0.orax"
+sha256 = "b6f3a10c9d162cb594bdd9888b9225d8a4958a6d96c8ba138fbb9ae27fdcc774"
